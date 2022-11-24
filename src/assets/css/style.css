@@ -1,0 +1,9 @@
+@font-face {
+    font-family: vazir;
+    src: url(./Vazirmatn-Light.ttf);
+}
+*
+{
+    direction: rtl;
+    font-family: vazir;
+}
